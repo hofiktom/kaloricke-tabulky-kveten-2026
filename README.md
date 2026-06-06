@@ -1,6 +1,6 @@
-# Analýza fitness a nutričních dat (Květen 2026)
+# Analýza nutričních dat (Květen 2026)
 
-Tento projekt obsahuje SQL skripty pro analýzu mých osobních fitness dat a nutričního jídelníčku (exportovaného z aplikací pro sledování aktivity a stravy). Cílem bylo propojit teorii datové analýzy s reálnými daty z mého tréninku a sledovat konzistenci v plnění cílů.
+Tento projekt obsahuje SQL skripty pro analýzu mých osobních dat a nutričního jídelníčku (exportovaného z aplikace pro sledování stravy). Cílem bylo propojit teorii datové analýzy s reálnými daty z mého jídelníčku a sledovat konzistenci v plnění cílů.
 
 ## 🛠️ Použité technologie
 * **Databáze:** PostgreSQL
